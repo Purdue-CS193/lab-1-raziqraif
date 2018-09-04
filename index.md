@@ -2,7 +2,7 @@
 
 - The assignments are practical
 - The class is awesome
-- The instructor chose a hacker background for the (brand new fancy GitHub) website for the first assignment
+- The instructor chose a hacker background for the (fancy GitHub) website for the first assignment
 
 ## Welcome to GitHub Pages
 
